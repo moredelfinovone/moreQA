@@ -4,7 +4,7 @@
 
 - E-mail: moredelfinovone@gmail.com 
 - GitHub: moredelfinovone 
-- Telegram: moreQA
+- Telegram: @asoenko
 
 ## Some information about me:
 
