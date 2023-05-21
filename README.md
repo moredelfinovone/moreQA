@@ -28,7 +28,7 @@ I can briefly intoduce myself by saing that I am 27 years old, living in Minsk, 
 - Leadership
 - Creativity
 - Multitasking
-- Knowledge of software (basics) : PyCharm, Jira, TestTrail, Postman, Trello ,JMetr, Mobaxterm, TFiddler, Visual Code, 
+- Knowledge of software (basics) : PyCharm, Jira, TestTrail, Postman, Trello ,JMetr, Mobaxterm, Fiddler, Visual Code, 
 - Language skills : 
 - Basic knowledge of the Python programming language and experience working with the Flask framework
 - Experience working with SQLite3 database in Pycharm IDE, practice in writing SQL queries to extract, filter, and aggregate data from databases
